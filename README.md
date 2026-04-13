@@ -1,8 +1,6 @@
 
 # vpn-container
 
-A brief description of what this project does and who it's for
-
 #  VPN com WireGuard (Docker)
 
 Projeto de criação de uma VPN utilizando WireGuard em container Docker, permitindo comunicação segura entre cliente e servidor através de um túnel criptografado.
